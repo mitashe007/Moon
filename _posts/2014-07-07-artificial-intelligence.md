@@ -2,7 +2,7 @@
 layout: post
 title: "Artificial Intelligence"
 date: 2014-07-07
-excerpt: "Artificial intelligence (AI) is intelligence exhibited by machines. In computer science, an ideal "intelligent" machine is a flexible rational agent that perceives its environment and takes actions that maximize its chance of success at some goal."
+excerpt: "Artificial intelligence (AI) is intelligence exhibited by machines." 
 comments: false
 ---
 
