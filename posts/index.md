@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: All Posts
+title: Timeline
 excerpt: "A List of Posts"
 comments: false
 ---
