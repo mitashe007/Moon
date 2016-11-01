@@ -16,6 +16,5 @@ WordPress is an online, open source website creation tool written in PHP. But in
 * Getting familiarized with WordPress
 * Playing around with Themes
 * Building a site provided with the layout (usually in illustrator or photoshop file format)
-* WordPress installation both on local and global host
 * Getting user feedback 
 * Fixing bugs
