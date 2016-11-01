@@ -4,8 +4,6 @@ title: About Me
 date: 2016-03-21
 comments: false
 ---
-    
-<center>Fun-loving | Adventure enthusiast | Not-to-be-mssed-with </center>
 
 When I was 22, I climbed Keokradong. Not metaphorically—I literally climbed the third highest peak of Bangladesh (3,235 ft.).
 
@@ -15,7 +13,7 @@ Now, I put that perseverance to work as I handle any project. I don’t have to 
 
 While I can (and often do) work well alone, but I’m at my best collaborating with others. I’m well-versed in planning and development, research, project management and communication.
 
-When I’m not working, I love to sketch, play video games (mostly racing), work my way through random recipe tryouts, but most importantly I love exploring new places and gathering new experiences. You can read about some of my escapades on my travel blog: http://mitzdigest.blogspot.com
+When I’m not working, I love to sketch, play video games (mostly racing), work my way through random recipe tryouts, but most importantly I love exploring new places and gathering new experiences. You can read about some of my escapades on my travel blog: [eM's Wanderlust.](http://mitzdigest.blogspot.com)
 
 If you’re interested in learning more, you can send an email my way (mrm.mitashe@gmail.com).
 
