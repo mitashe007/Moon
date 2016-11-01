@@ -10,52 +10,13 @@ comments: false
 
 ### Introduction and Agents
 
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Search
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Logic
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Planning
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Uncertainty
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Learning
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-### Natural Language Processing
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
+* Introduction and Agents
+* Search
+* Logic
+* Planning
+* Uncertainty
+* Learning
+* Natural Language Processing
 
 ## Practical Works
 
@@ -66,6 +27,7 @@ BFS is an algorithm for traversing or searching tree or graph data structures. I
 TODO: Implementation of BFS Algorithm in C# or Java
 
 >Input: A graph Graph and a starting vertex root of Graph
+
 >Output: All vertices reachable from root labeled as explored.
 
 Breadth-First-Search(Graph, root):
