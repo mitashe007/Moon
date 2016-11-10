@@ -35,7 +35,7 @@ comments: false
     http://i.imgur.com/ccQUhTk.png
     http://i.imgur.com/MHTxZTn.png
 {% endcapture %}
-{% include gallery images=images cols=3 %}
+{% include gallery images=images caption="Drawing Screenshots of Doodle Charades" cols=3 %}
 ---
 
 {% capture images %}
