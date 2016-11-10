@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Test Project"
+title:  "Android app: Doodle Charades"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "A simple Doodle version to play Charades"
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+comments: false
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+![Moon Homepage](http://i.imgur.com/KYvO2OE.png) 
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+{% capture images %}
+	http://i.imgur.com/KYvO2OE.png
+{% endcapture %}
+{% include gallery images=images caption="Splash Screen" cols=1 %}
+    
+<center><b>Doodle Charades</b> is a simple doodle version of playing Charades.</center> 
       
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
