@@ -9,9 +9,9 @@ comments: false
 
 ![Moon Homepage](http://i.imgur.com/rZWpMUt.png) 
     
-<center><b>Doodle Charades</b> is a simple doodle version of playing Charades.</center> 
+<center><b>Doodle Charades</b> is a simple doodle app for playing Charades.</center> 
  
- A dynamic canvas-drawing based application with many features. On clicking play a random movie name is generated which then can be doodled onto the canvas, the idea is to be able to save and share them with friends.
+ A dynamic canvas-drawing based application with many features. On clicking <b>Play</b> a random movie name is generated which then can be doodled onto the canvas, the idea is to be able to <b>Save</b> and share them with friends.
  
 ## Features
 * Draw on the canvas 
@@ -36,11 +36,6 @@ comments: false
     http://i.imgur.com/MHTxZTn.png
 {% endcapture %}
 {% include gallery images=images cols=3 %}
-{% capture images %}
-    http://i.imgur.com/ccQUhTk.png
-    http://i.imgur.com/MHTxZTn.png
-{% endcapture %}
-{% include gallery images=images caption="Drawing Screenshots of Doodle Charades" cols=2 %}
 ---
 
 {% capture images %}
