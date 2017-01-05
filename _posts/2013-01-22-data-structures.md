@@ -8,48 +8,36 @@ comments: false
 
 ## Theory Contents
 
-* Array and Linked List
-
-Linear and Circular
-
-* Recursion
-* Searching and Sorting
-
-Sequantial Search
-Binary Search
-Key-indexed Search
-Bubble Sort
-Selection Sort
-Insetion Sort
-
-* Stacks and Queues
-
-Array-based Implementation
-Linked List-based Implementation
-Priority Queue
-
-* Trees and Graph
-
-Free trees
-Rooted trees
-Ordered trees
-M-ary trees: Binary trees
-Binary Search Trees
-Directed and Undirected graphs
-Directed Acyclic graphs
-Weighted and Unweighted graphs
-
-* Graph Traversal
-
-Breadth-first Traversal
-Depth-first Traversal
-
-* Data Structures and Representations
-
-Adjacency Matrix
-Adjancecy List
-
-* Hashing and Hashtables
+### Array and Linked List
+* Linear and Circular
+### Recursion
+### Searching and Sorting
+* Sequential Search
+* Binary Search
+* Key-indexed Search
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+### Stacks and Queues
+* Array-based Implementation
+* Linked List-based Implementation
+* Priority Queue
+### Trees and Graph
+* Free trees
+* Rooted trees
+* Ordered trees
+* M-ary trees: Binary trees
+* Binary Search Trees
+* Directed and Undirected graphs
+* Directed Acyclic graphs
+* Weighted and Unweighted graphs
+### Graph Traversal
+* Breadth-first Traversal
+* Depth-first Traversal
+### Data Structures and Representations
+* Adjacency Matrix
+* Adjancecy List
+### Hashing and Hashtables
 
 
 ## Practical Work
