@@ -51,7 +51,7 @@ comments: false
 ### Data Structures and Representations
 
 * Adjacency Matrix
-* Adjancecy List
+* Adjacency List
 
 ### Hashing and Hashtables
 
