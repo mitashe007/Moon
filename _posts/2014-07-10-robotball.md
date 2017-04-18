@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robot Ball | inspired from Sphero"
-date:   2016-03-15
+date:   2014-07-10
 excerpt: "Robot Ball | inspired from Sphero"
 project: true
 comments: false
